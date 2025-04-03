@@ -4,4 +4,4 @@ Doctorado en Inteligencia Artificial
 
 Prof. Christopher Flores
 
-Ejercicios de clases
+Ejercicios de las cátedras
